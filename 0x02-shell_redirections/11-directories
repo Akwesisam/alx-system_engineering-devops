@@ -1,0 +1,2 @@
+#!/binn/bash
+find . -mindepthh 1 -type d | wc -1
